@@ -1,0 +1,144 @@
+{
+  "request": [
+      {
+        "id": 1,
+        "name": "Chole Bhature",
+        "description": "Spiced chickpea curry served with fluffy, deep-fried bhature.",
+        "price": 149,
+        "imageURL": "chole-bhature",
+        "calories": 420,
+        "protein": 12,
+        "carbs": 58
+    },
+      {
+        "id": 2,
+        "name": "Pav Bhaji",
+        "description": "Spiced vegetable bhaji served with buttery toasted pav, chopped onions and lemon.",
+        "price": 129,
+        "imageURL": "pav-bhaji",
+        "calories": 350,
+        "protein": 9,
+        "carbs": 48
+      },
+    {
+      "id": 3,
+      "name": "Chicken Tikka",
+      "description": "Tender chicken pieces marinated in yogurt and traditional Indian spices.",
+      "price": 229,
+      "imageURL": "chicken-tikka",
+      "calories": 260,
+      "protein": 28,
+      "carbs": 8
+    },
+    {
+      "id": 4,
+      "name": "Aloo Tikki",
+      "description": "Crispy golden potato patties seasoned with herbs and Indian spices.",
+      "price": 79,
+      "imageURL": "aloo-tikki",
+      "calories": 180,
+      "protein": 4,
+      "carbs": 27
+    },
+    {
+      "id": 5,
+      "name": "Veg Spring Rolls",
+      "description": "Crispy rolls filled with seasoned vegetables and served with dipping sauce.",
+      "price": 129,
+      "imageURL": "veg-spring-rolls",
+      "calories": 210,
+      "protein": 5,
+      "carbs": 25
+    },
+    {
+      "id": 6,
+      "name": "Chicken Seekh Kebab",
+      "description": "Juicy minced chicken kebabs seasoned with herbs and aromatic spices.",
+      "price": 249,
+      "imageURL": "chicken-seekh-kebab",
+      "calories": 290,
+      "protein": 27,
+      "carbs": 6
+    },
+    {
+      "id": 7,
+      "name": "Hara Bhara Kebab",
+      "description": "Vegetarian kebabs made with spinach, peas, potatoes and Indian spices.",
+      "price": 149,
+      "imageURL": "hara-bhara-kebab",
+      "calories": 190,
+      "protein": 6,
+      "carbs": 24
+    },
+    {
+      "id": 8,
+      "name": "Chilli Paneer",
+      "description": "Crispy paneer tossed with peppers, onions and spicy Indo-Chinese sauce.",
+      "price": 199,
+      "imageURL": "chilli-paneer",
+      "calories": 310,
+      "protein": 15,
+      "carbs": 18
+    },
+    {
+      "id": 9,
+      "name": "Tandoori Chicken",
+      "description": "Chicken marinated in yogurt and spices, roasted in a traditional tandoor.",
+      "price": 279,
+      "imageURL": "tandoori-chicken",
+      "calories": 320,
+      "protein": 34,
+      "carbs": 7
+    },
+    {
+      "id": 10,
+      "name": "Dahi Ke Kebab",
+      "description": "Soft and crispy kebabs made with hung yogurt, paneer and aromatic spices.",
+      "price": 169,
+      "imageURL": "dahi-ke-kebab",
+      "calories": 210,
+      "protein": 8,
+      "carbs": 20
+    },
+    {
+      "id": 11,
+      "name": "Malai Chaap",
+      "description": "Creamy soya chaap marinated with malai, yogurt and mild Indian spices.",
+      "price": 219,
+      "imageURL": "malai-chaap",
+      "calories": 330,
+      "protein": 18,
+      "carbs": 16
+    },
+    {
+      "id": 12,
+      "name": "Paneer Pakora",
+      "description": "Soft paneer cubes coated in spiced gram flour batter and fried until golden and crispy.",
+      "price": 139,
+      "imageURL": "paneer-pakora",
+      "calories": 260,
+      "protein": 12,
+      "carbs": 20
+    },
+    {
+      "id": 13,
+      "name": "Chicken 65",
+      "description": "Crispy fried chicken pieces tossed with curry leaves and Indian spices.",
+      "price": 229,
+      "imageURL": "chicken-65",
+      "calories": 310,
+      "protein": 26,
+      "carbs": 14
+    },
+    {
+      "id": 14,
+      "name": "Amritsari Fish",
+      "description": "Crispy fish fillets coated with spiced gram flour batter.",
+      "price": 259,
+      "imageURL": "amritsari-fish",
+      "calories": 300,
+      "protein": 25,
+      "carbs": 18
+    }
+  ]
+}
